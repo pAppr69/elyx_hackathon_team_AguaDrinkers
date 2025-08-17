@@ -1,0 +1,21 @@
+restrictions you need to implement:
+
+- 1 full diagnostic test panel needs to be done for the member every three
+months to check their progress on different biomarkers.
+- Assume the member also does some research or reads about health or gets
+curious questions about certain topics. So, there should be up to 5
+conversations started by the member per week on average.
+- The member is committing 5 hours per week on average to follow the plan.
+- Assume exercises are being updated every 2 weeks based on the client's
+progress.
+- The member travels for at least 1 week out of every 4 weeks on business
+trips.
+- The members’ primary place of residence is Singapore.
+- If you are generating report communication, assume you can just have text
+messages highlighting either the areas which have problems or tracking of
+something which the member or team cares about.
+- When Elyx proposes a plan, the member sticks to it properly ~50% of the
+time. That means ~50% of the time, the plan needs to be changed or
+improved based on the members preferences / logistics constraints.
+- Remember, the member is generally not sick, BUT *they can have 1 chronic
+condition that they are managing (eg. high sugar, high BP)*

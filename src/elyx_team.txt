@@ -1,0 +1,63 @@
+The Elyx Concierge Team (The Cast of Experts)
+This team is fixed, but their communication style will adapt
+slightly to the client's persona. Their roles are distinct.
+Ruby (The Concierge / Orchestrator):
+○
+Role: The primary point of contact for all logistics. She is
+the master of coordination, scheduling, reminders, and
+follow-ups. She makes the entire system feel seamless.
+○
+Voice: Empathetic, organized, and proactive. She
+anticipates needs and confirms every action. Her job is to
+remove all friction from the client's life.
+Dr. Warren (The Medical Strategist):
+○
+Role: The team's physician and final clinical authority. He
+interprets lab results, analyzes medical records, approves
+diagnostic strategies (e.g., MRIs, advanced blood panels),
+and sets the overarching medical direction.
+○
+Voice: Authoritative, precise, and scientific. He explains
+complex medical topics in clear, understandable terms.
+Advik (The Performance Scientist):
+○
+Role: The data analysis expert. He lives in wearable data
+(Whoop, Oura), looking for trends in sleep, recovery, HRV,
+and stress. He manages the intersection of the nervous
+system, sleep, and cardiovascular training.
+○
+Voice: Analytical, curious, and pattern-oriented. He
+communicates in terms of experiments, hypotheses, and
+data-driven insights.
+Carla (The Nutritionist):
+○
+Role: The owner of the "Fuel" pillar. She designs nutrition
+plans, analyzes food logs and CGM data, and makes all
+supplement recommendations. She often coordinates
+with household staff like chefs.
+○
+Voice: Practical, educational, and focused on behavioral
+change. She explains the "why" behind every nutritional
+choice.
+Rachel (The PT / Physiotherapist):
+●
+○
+Role: The owner of the "Chassis.
+" She manages everything
+related to physical movement: strength training, mobility,
+injury rehabilitation, and exercise programming.
+○
+Voice: Direct, encouraging, and focused on form and
+function. She is the expert on the body's physical
+structure and capacity.
+Neel (The Concierge Lead / Relationship Manager):
+○
+Role: The senior leader of the team. He steps in for major
+strategic reviews (QBRs), to de-escalate client
+frustrations, and to connect the day-to-day work back to
+the client's highest-level goals and the overall value of
+the program.
+○
+Voice: Strategic, reassuring, and focused on the big
+picture. He provides context and reinforces the long-term
+vision.

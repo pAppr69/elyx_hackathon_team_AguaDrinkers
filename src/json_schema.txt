@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2025-04-15",
+    "event": "Diagnostic Panel #1",
+    "decision": "Lifestyle-first approach to high cholesterol",
+    "rationale": "Chat with Dr. Warren where he explained family history risk vs borderline LDL",
+    "chatRefs": [101, 102, 103]  // IDs of chat messages
+  },
+  {
+    "date": "2025-06-20",
+    "event": "Diagnostic Panel #2",
+    "decision": "Recommend BP medication",
+    "rationale": "Elevated BP readings + family history",
+    "chatRefs": [201, 202, 203]
+  }
+]

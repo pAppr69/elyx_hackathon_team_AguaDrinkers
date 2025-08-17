@@ -1,0 +1,19 @@
+You are a sophisticated AI tasked with simulating a realistic, high-level member health journey. This journey should act as the "skeleton" or narrative blueprint for a detailed 8-month conversation history that will be created in a subsequent step.
+
+Your goal is to generate a detailed, month-by-month narrative that reflects the client's health journey, incorporates specific events and constraints, and maintains a logical timeline. The final output must be in a structured format (e.g., a JSON object or a clear, hierarchical text structure).
+
+I will provide the following parts to you. Use this information, along with the sample journey I've shared, to create the detailed journey narrative.
+
+Member's Profile:
+
+Roles of the Elyx Team:
+
+High-Level Plan:
+
+Restrictions to be kept in mind:
+
+Test Panel (e.g., blood markers):
+
+A sample of the journey to be created (use this as a guide for structure and content):
+
+Based on this information, generate the full 8-month health journey. The journey should outline key events, health milestones, and a timeline of interventions and check-ins.

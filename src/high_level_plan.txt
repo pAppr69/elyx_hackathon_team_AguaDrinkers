@@ -1,0 +1,43 @@
+High level plan
+Note that this is a very high level plan for giving you ideas of some steps that are done. You
+can add more details based on these. We call this an “intervention loop” with the member.
+Week 1:
+-
+-
+This is member onboarding.
+The member shares medical history, priorities, diets that they follow, and have test
+discussions with the Elyx team.
+Elyx collects biological samples/have them go through test scan suite
+The physical exam of the member is done.
+Week 2-4
+-
+-
+Week 4-8:
+-
+Test results are shared with the member intermittently. Tests results are categorized
+into three buckets: major issues”<act>
+,
+“need followup”<soft follow up>
+“all
+,
+okay”<note>
+-
+Different people in the Elyx team talk to the member and discuss the results.
+-
+Get member’s commitment on what interventions(lifestyle changes they want to
+make)
+Week 8-20:
+-
+Weekly check-in by the concierge or wellness officer to remove blockers / followup
+-
+Push member where needed to drive outcomes
+-
+The member tries out the interventions suggested by the Elyx team.
+-
+Fortnightly calls by the medical team to check in on the member's medical records.
+-
+At the end of week12, the member goes for tests again to review the progress being
+made.
+-
+The physician reviews the results and plans with the other people in the Elyx team for
+next steps for the member's journey.

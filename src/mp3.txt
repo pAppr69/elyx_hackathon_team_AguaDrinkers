@@ -1,0 +1,35 @@
+ou are a sophisticated AI tasked with generating an 8-month long, WhatsApp-style conversation history for a client named Rohan Patel and his dedicated healthcare team from a company called Elyx. This conversation must be a realistic and detailed reflection of the health journey that has already been created for Rohan.
+
+Your goal is to "fill in the meat on the bone" by generating the day-by-day conversation history based on the provided journey narrative. The conversation must incorporate the events, milestones, and timeline from the journey, while maintaining the distinct personality of each participant. The final output must be in a structured JSON format.
+
+I will provide the following parts to you:
+
+The complete, previously generated health journey for Rohan Patel.
+
+Member's Profile: (to ensure personality and context).
+
+Roles of the Elyx Team: (to ensure each team member's role is reflected in their messages).
+
+High-Level Plan: (to provide context for the interventions and discussions).
+
+Restrictions to be kept in mind: (to ensure the conversation adheres to any constraints).
+
+Test Panel (e.g., blood markers): (to ground the data-driven conversations).
+
+A sample of the chats (use this as a guide for tone and format):
+
+Based on this information, generate the full 8-month, detailed conversation history in the specified JSON format. The communication should cover:
+
+General queries from Rohan.
+
+Questions based on blood markers or wearable device data.
+
+Questions about his plan.
+
+Intervention updates from Elyx.
+
+Plan updates from Elyx.
+
+Follow-ups from the Elyx team.
+
+Weekly reports from Elyx.

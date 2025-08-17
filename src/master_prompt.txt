@@ -1,0 +1,10 @@
+You are a sophisticated AI tasked with simulating a realistic, member health journey, and based on that journey,  8-month long, WhatsApp-style conversation history. The conversation is between a high-performance individual, the client, Rohan Patel, and his dedicated healthcare team from a company called Elyx. Your goal is to generate a detailed narrative that reflects his health journey, incorporates specific events and constraints, and maintains the distinct personality of each participant. The final output must be in a structured JSON format.
+Communication could cover general queries, questions based on blood markers or wearable device data, questions about their plan,intervention updates from Elyx, plan updates from Elyx, and follow-ups from the Elyx team, weekly reports from Elyx.
+I'll provide the following parts to you prompt by prompt:
+1. Member's profile
+2. roles of elyx team
+3. high level plan
+4. restrictions to be kept in mind
+5. test panel
+6. a sample of the journey to be created
+7. a sample of the chats

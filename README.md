@@ -6,7 +6,7 @@ The app visualizes the patient journey timeline, chat logs, and includes an inte
 ---
 
 ## Project Structure
-
+```
 elyx_hackathon_team_AguaDrinkers/
 │
 ├── data/                  # JSON data files
@@ -25,7 +25,7 @@ elyx_hackathon_team_AguaDrinkers/
 │
 ├── package.json
 └── README.md
-
+```
 ---
 
 ## Installation & Setup

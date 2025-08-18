@@ -60,7 +60,7 @@ http://localhost:5173/
 ![Journey Timeline](./screenshots/web.png)
 
 ### 🗂️ Deep Dive window
-![Deep Dive window](./screenshots/web.png)
+![Deep Dive window](./screenshots/meta_window.png)
 
 ### 💬 Chat
 ![Judge Chat](./screenshots/chat_support.png)

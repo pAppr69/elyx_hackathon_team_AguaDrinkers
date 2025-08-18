@@ -23,6 +23,9 @@ elyx_hackathon_team_AguaDrinkers/
 │       ├── JudgeChat.jsx
 │       └── RationaleModal.jsx
 │
+├─ prompts/
+│   └──generate_convo.ipynb
+│
 ├── package.json
 └── README.md
 ```
@@ -39,3 +42,25 @@ cd <repo-name>
 ```bash
 npm install
 ```
+
+### 3. Run the development server
+```bash
+npm run dev
+```
+
+After running, open:
+```
+http://localhost:5173/
+```
+
+
+## Demo Screenshots
+
+### 🗂️ Journey Timeline
+![Journey Timeline](./screenshots/web.png)
+
+### 🗂️ Deep Dive window
+![Deep Dive window](./screenshots/web.png)
+
+### 💬 Chat
+![Judge Chat](./screenshots/chat_support.png)

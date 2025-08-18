@@ -84,7 +84,7 @@ export default function App() {
   return (
     <div className="container">
       <header>
-        <h1>Elyx Member Journey</h1>
+        <h1>Rohan's Elyx Journey</h1>
         <p>Click any event to see the rationale &amp; linked chats.</p>
       </header>
 
